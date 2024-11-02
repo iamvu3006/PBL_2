@@ -1,0 +1,3 @@
+﻿  PBL2.cpp
+PBL2.obj : error LNK2019: unresolved external symbol __imp_InitCommonControls referenced in function "__int64 __cdecl winproc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?winproc@@YA_JPEAUHWND__@@I_K_J@Z)
+C:\10000hcode)))))\OOP\PBL2_VS\PBL2\x64\Debug\PBL2.exe : fatal error LNK1120: 1 unresolved externals

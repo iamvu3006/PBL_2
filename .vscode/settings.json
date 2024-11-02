@@ -1,0 +1,17 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "format": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "istream": "cpp"
+    },
+    "cSpell.words": [
+        "Nhap",
+        "thoi",
+        "thoigian"
+    ]
+}
